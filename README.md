@@ -17,7 +17,7 @@
 
 ## 🕑 Desenvolvimento do projeto
 
-- Criado à partir da video aula do professor Fernando Leonid utilizando o localStorage como banco de dados. Tudo isso utilizando HTML, CSS e javascript puro.
+- Criado à partir da video aula do professor Fernando Leonid utilizando o localStorage como banco de dados. Tudo isso utilizando HTML, CSS e JS.
 
 
 ## 📞 Contato
